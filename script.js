@@ -74,13 +74,6 @@ Data at a national level also <b>fails to capture variability at more local leve
     text: 'Lets look what he and his community have done.'
   },
   {
-    id: 'comparison-frame2',
-    type: 'iframe',
-    src:  "https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=63dc9756-31db-11f0-bb24-0936e1cb08fb",
-    text: `Peravurani Taluk, Thanjavur district, Tamilnadu. Area of the lake: 6 acresWater storage capacity: 40000000 litresDistrict. GPS coordinates:79.25 ,10.27</p>`,
-    map: { center: [79.2 ,10.2], zoom: 14, pitch: 8 }
-  },
-  {
     id: 'comparison-frame3',
     type: 'iframe',
     src: 'https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=ec4e22d0-31db-11f0-bb24-0936e1cb08fb',
