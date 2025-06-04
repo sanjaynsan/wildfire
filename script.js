@@ -95,13 +95,6 @@ Data at a national level also <b>fails to capture variability at more local leve
     text: '<h6>Be an Action Hero! Join the movement to save our water resources. '
   },
   {
-    id: 'how do others mitigate water crisis',
-    type: 'image',
-    src: "./images/how do others.jpg",
-    map: { center: [0, 20], zoom: 2.5, pitch: 0 },
-    text: '.'
-  },
-  {
     id: 'Know of any grassroots',
     type: 'image',
     src: "./images/final map.jpeg",
