@@ -95,13 +95,6 @@ Data at a national level also <b>fails to capture variability at more local leve
     text: 'Vathalaikkundu Nochchi Kulam.Area of the lake: 55 acresWater storage capacity: 80 crore litresGps co-ordinates: 10.289601, 79.227898 Shrubs and invasive species were remobed from the lake region, desilted it, established boundaries. Two lake islands were created inside the lake and planted hundreds of native trees.  Water we brought to the lake via the inlet and ensured that maximum rainwater is saved in this water body'
   },
   {
-    id: 'comparison-frame1',
-    type: 'image',
-    src: './images/after and before.gif',
-    map: { center: [78.3,24.37], zoom: 4, pitch: 0 },
-    text: '.'
-  },
-  {
     id: 'Growing awareness',
     type: 'image',
     src: "./images/Growing awareness.jpg",
